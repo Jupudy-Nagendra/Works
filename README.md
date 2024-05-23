@@ -12,4 +12,4 @@ Git Commands
 6. dir # same as ls
 7. cd .. #go back to previous dir
 8. git commit -m "Message to record" # to add in git with the comment
-9. git push orign main # push to github 
+9. git push origin main # push to github 
